@@ -1,0 +1,14 @@
+{
+  "original": {
+    "label": "ORIGINAL (adaptive threshold)",
+    "n": 45,
+    "accuracy": 0.0667,
+    "correct": 3
+  },
+  "fixed": {
+    "label": "FIXED (color-distance segmentation)",
+    "n": 45,
+    "accuracy": 0.6444,
+    "correct": 29
+  }
+}
