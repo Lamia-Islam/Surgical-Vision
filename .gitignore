@@ -1,0 +1,8 @@
+# Generated at runtime — regenerate with generate_wounds.py / compare_segmentation.py
+sample_images/
+output/
+__pycache__/
+*.pyc
+build/
+install/
+log/
